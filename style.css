@@ -51,7 +51,7 @@ main{
   flex-direction: column;
   align-items: center;
   row-gap: 4rem;
-  margin-top: 5em;
+  margin-top: 7em;
 }
 p{
     color: var(--GrayishBlue);
